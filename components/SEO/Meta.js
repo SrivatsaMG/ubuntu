@@ -12,7 +12,7 @@ export default function Meta() {
                 content="Srivatsa M G's Personal Portfolio Website. Full-Stack Developer from Mysore. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Srivatsa M G" />
             <meta name="keywords"
-                content="srivatsa mg, srivatsa portfolio, full-stack developer, web developer, ubuntu portfolio, developer portfolio" />
+                content="srivatsa mg, srivatsa portfolio, full-stack developer, web developer, ubuntu portfolio, developer portfolio,srivatsa mg ubuntu portfolio, srivatsa, vatsa, vasta" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
