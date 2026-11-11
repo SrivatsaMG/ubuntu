@@ -7,7 +7,6 @@ import { displayTrash } from './components/apps/trash';
 import { displayGedit } from './components/apps/gedit';
 import { displayAboutSrivatsa } from './components/apps/vivek';
 import { displayTerminalCalc } from './components/apps/calc';
-import { Analytics } from "@vercel/analytics/next"
 const apps = [
     {
         id: "chrome",
