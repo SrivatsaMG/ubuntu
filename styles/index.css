@@ -198,6 +198,10 @@ input[type=range].ubuntu-slider::-webkit-slider-thumb {
     list-style: "🌟";
 }
 
+.list-mail {
+    list-style: "✉️";
+}
+
 .list-arrow {
     list-style: "⇀";
 }
