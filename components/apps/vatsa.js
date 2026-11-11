@@ -117,9 +117,9 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm currently working as an <span className=" font-medium">Associate Software Engineer (ASE)</span> at <a href="https://www.accenture.com/en" target="_blank" rel="noreferrer">Accenture</a>.</li>
+                <li className=" list-pc">I'm currently working as an <span className=" font-medium">Associate Software Engineer (ASE)</span> at <a href="https://www.accenture.com/en" target="_blank" rel="noreferrer">Accenture</a>.<br />Hit me up <a className='text-underline' href='mailto:srivatsamg@gmail.com'><u>@srivatsamg@gmail.com</u></a> :)</li>
                 <li className=" list-pc">I'm an innovative <span className=" font-medium">Full-Stack Developer</span> driven by a passion for crafting robust solutions. I completed my SDE internship at <u className=' cursor-pointer '> <a href="https://www.se.com" target={"_blank"}>Schneider Electric</a></u>.
-                 . ( Hit me up <a className='text-underline' href='mailto:srivatsamg@gmail.com'><u>@srivatsamg@gmail.com</u></a> :) )</li>
+                </li>
                 <li className=" mt-3 list-building"> I enjoy building awesome software that solves practical problems.</li>
                 <li className=" mt-3 list-time"> With a proven track record of effective time management and strong communication skills, I thrive in dynamic environments.</li>
                 <li className=" mt-3 list-star"> My insatiable curiosity fuels my commitment to continual personal and professional growth!</li>
